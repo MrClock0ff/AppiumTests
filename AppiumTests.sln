@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumTests", "AppiumTests\AppiumTests.csproj", "{8B8762F8-6DFD-4919-B3E5-DBA164207683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumTests.iOS", "AppiumTests.iOS\AppiumTests.iOS.csproj", "{2370EA53-0FFF-4BC3-A299-5229157C8E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumTests.Automation", "AppiumTests.Automation\AppiumTests.Automation.csproj", "{1D81BC4C-56AF-410D-BBCA-10A01C2192DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8762F8-6DFD-4919-B3E5-DBA164207683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8762F8-6DFD-4919-B3E5-DBA164207683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8762F8-6DFD-4919-B3E5-DBA164207683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8762F8-6DFD-4919-B3E5-DBA164207683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2370EA53-0FFF-4BC3-A299-5229157C8E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2370EA53-0FFF-4BC3-A299-5229157C8E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2370EA53-0FFF-4BC3-A299-5229157C8E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2370EA53-0FFF-4BC3-A299-5229157C8E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D81BC4C-56AF-410D-BBCA-10A01C2192DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D81BC4C-56AF-410D-BBCA-10A01C2192DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D81BC4C-56AF-410D-BBCA-10A01C2192DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D81BC4C-56AF-410D-BBCA-10A01C2192DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
